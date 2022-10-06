@@ -1,0 +1,20 @@
+{
+    "name": "external",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Thiencute/Test-External.git"
+    },
+    "keywords": [
+        "modules-external"
+    ],
+    "homepage": "https://github.com/nghinguyen157/Math-Modules-Practices#readme"
+
+}
